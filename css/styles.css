@@ -1,0 +1,10 @@
+.container-buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+}
+
+.container-buttons button {
+    padding: 20px;
+    font-size: 20px;
+}
