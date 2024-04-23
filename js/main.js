@@ -73,4 +73,3 @@ function isOperator(operator) {
 function isInteger(text) {
     return /^\d+$/.test(text);
 }
-
